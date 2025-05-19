@@ -183,4 +183,3 @@ st.sidebar.markdown("""
 4.  **Process with LLM:** Click the "Process Items with LLM" button. The app will simulate sending each fetched item and your prompt to an LLM. A progress bar will show the status.
 5.  **View Outputs:** The results from the LLM for each item will be displayed under "4. LLM Outputs". You can expand each item to see its details.
 """)
-st.sidebar.info("Note: LLM processing is simulated in this demo.")
